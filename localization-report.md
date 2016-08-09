@@ -213,7 +213,7 @@
  [.gitignore](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.gitignore) | Ignored | [Details](#4cec70b19ac6dc8ed05550e3ff2d40efccd8e1dd2)
  [.localization-config](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.localization-config) | Ignored | [Details](#83727f14d9423b554a7711a99c2cf087442a142d3)
  [.openpublishing.build.ps1](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.openpublishing.build.ps1) | Ignored | [Details](#3cd220db98e275f9cd78717620170a1641b7f4114)
- [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.openpublishing.publish.config.json) | Ignored | [Details](#1b6b9276c3f59d68b9d26034321659435a285f845)
+ [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.openpublishing.publish.config.json) | Ignored | [Details](#6fdcf11a7d2d45281fad8ea3dad2b3be247863a25)
  [appveyor.yml](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/appveyor.yml) | Ignored | [Details](#693062faddfebde634816412ea3372c526e6299b8)
  [ci-scripts\getlist.ps1](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/ci-scripts/getlist.ps1) | Ignored | [Details](#307339c80b42cd64593bfedfac3e6400240f6ad69)
  [ci-scripts\installcore.ps1](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/ci-scripts/installcore.ps1) | Ignored | [Details](#69611ceb4fd9f76e0ad473ad30a756caa528848c10)
@@ -627,7 +627,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1b6b9276c3f59d68b9d26034321659435a285f845'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.openpublishing.publish.config.json)
+##### <a name='6fdcf11a7d2d45281fad8ea3dad2b3be247863a25'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/core-docs/blob/67bba086c70b83d04f73e97a0e801791f0eeca04/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
