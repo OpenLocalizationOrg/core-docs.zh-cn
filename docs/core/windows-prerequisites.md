@@ -1,0 +1,84 @@
+---
+title: .NET Core Pre-Requisites
+description: .NET Core Pre-Requisites
+keywords: .NET, .NET Core
+author: billwagner
+manager: wpickett
+ms.date: 07/27/16
+ms.topic: article
+ms.prod: .net-core
+ms.technology: .net-core-technologies
+ms.devlang: dotnet
+ms.assetid: c33b1241-ab66-4583-9eba-52cf51146f5a
+translationtype: Human Translation
+ms.sourcegitcommit: c2d8478ee04e0b2ffe9d9109f8fd0bd66acf4810
+ms.openlocfilehash: 335d4d1c628de468ef619ea96613d93b771f9490
+
+---
+
+# Pre-Requisites for Windows Development
+
+.NET Core development on Windows with Visual Studio requires:
+
+* A supported version of the Windows client or operating system.
+* Visual Studio 2015 Update 3.3 or later
+* NuGet Manager extension for Visual Studio
+* .NET Core Tooling Preview 2
+
+## Supported Windows Versions
+
+.NET Core 1.0 is supported on the following verions of Windows:
+
+- Windows 7+ / Server 2012 R2+
+- Windows Nano Server TP5
+
+You can see the full set of [suppported operating systems](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md#rtm-platform-support) in in the [.NET Core Release Notes](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md).
+
+## .NET Core dependencies
+
+.NET Core requires the VC++ Redistributable when running on Windows. It is installed for you by the .NET Core installer. You need to install the Visual C++ redistributable manually is if you are installing .NET Core via the installer script (`dotnet-install.ps1`). 
+
+The Visual C++ Redistributable version differs by Windows version.
+
+* Windows 10
+    * [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+* Windows 7+ (not Windows 10)
+    * Please make sure that your Windows installation is up-to-date and includes hotfix [KB2533623](https://support.microsoft.com/en-us/kb/2533623) installed through Windows Update.
+    * [Universal CRT update](https://www.microsoft.com/en-us/download/details.aspx?id=48234) (you can get more info on what Universal CRT is in [this blog post](https://blogs.msdn.microsoft.com/vcblog/2015/03/03/introducing-the-universal-crt/))
+
+## Visual Studio
+
+You need Visual Studio 2015 to develop .NET Core apps. You can download [Visual Studio Community 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs) for free. 
+
+Verify that you're running [Visual Studio 2015 Update 3.3](https://www.visualstudio.com/news/releasenotes/vs2015-update3-vs):
+
+* On the **Help** menu, choose **About Microsoft Visual Studio**.
+* In the About Microsoft Visual Studio dialog, the version number should be 14.0.25424.00 or higher, and include "Update 3".
+* If you don't have Update 3, you can download and install [Visual Studio 2015 Update 3](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs).
+* If you have Update 3, you download and install [Visual Studio 2015 Update 3.3](https://msdn.microsoft.com/en-us/library/mt752379.aspx).
+
+You can read more about the changes in Update 3.3 in the [release notes](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs).
+
+## NuGet Manager extension for Visual Studio
+
+NuGet is the package manager for the Microsoft development platform including .NET Core. You need [NuGet 3.5.0](https://dist.nuget.org/visualstudio-2015-vsix/v3.5.0-beta/NuGet.Tools.vsix) or higher to build .NET Core apps.
+
+## .NET Core Tools for Visual Studio 2015
+
+Download and install the [.NET Core Tooling Preview 2 for Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkId=817245). 
+
+The .NET Core Tooling package installs .NET Core, project templates and other tools for Visual Studio 2015.
+
+## Issues
+
+You may be blocked from installing the [.NET Core Tooling Preview 2 for Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkId=817245) installer due to a temporary bug. To workaround it, run the installer from the commandline with the `SKIP_VSU_CHECK=1` argument, as you see in the example below.
+
+```
+DotNetCore.1.0.0-VS2015Tools.Preview2.exe SKIP_VSU_CHECK=1
+```
+
+
+
+<!--HONumber=Aug16_HO2-->
+
+
