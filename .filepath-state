@@ -1,0 +1,530 @@
+{
+  "88ae2ce68b4efec9cc91f7beaf4c7645512653d7": [
+    ".github\\ISSUE_TEMPLATE.md"
+  ],
+  "8347623f8a954b1d22c137cd13e6080ba51eb491": [
+    ".github\\PULL_REQUEST_TEMPLATE.md"
+  ],
+  "729d764cd41e857a1df2c67b76c0169e4bbfc5ea": [
+    "api\\index.md"
+  ],
+  "956f938a1bf99348660789a0967de30646a7c9a7": [
+    "apidoc\\Microsoft.CSharp.RuntimeBinder.Binder.overwrite.md"
+  ],
+  "e96afc2c6716a09e8dc4d2931914bf4966ed93cb": [
+    "CONTRIBUTING.md"
+  ],
+  "bb398b38d8a37f203619e026b0e6aefa0575a775": [
+    "docs\\about\\index.md"
+  ],
+  "ee507172289ad30b0d152f10dd82f35153d9a8db": [
+    "docs\\about\\products.md"
+  ],
+  "b739593c5752364ef7a9e2a26ab2d53b807c4d70": [
+    "docs\\core\\app-types.md"
+  ],
+  "f6729bd940017d04fcde7833cec47c96a158fd3d": [
+    "docs\\core\\deploying\\applications.md"
+  ],
+  "e2eac3c6a4071238bcd1bfebdd433710c4ad3d5b": [
+    "docs\\core\\deploying\\creating-nuget-packages.md"
+  ],
+  "cc1778121a2958089dc13564c696057c5fee9d2d": [
+    "docs\\core\\deploying\\index.md"
+  ],
+  "caae9f0a32c4378488329fd6d88c1dc7bf96ae9a": [
+    "docs\\core\\deploying\\reducing-dependencies.md"
+  ],
+  "c77caf8de3fc0e9e9f3756b42eaed119e885459d": [
+    "docs\\core\\getting-started.md"
+  ],
+  "1be09f3c89f8994f4f919c9f040bdbff91013d79": [
+    "docs\\core\\index.md"
+  ],
+  "56bd387874a315cb6da9a292adfb81d95a6bb76e": [
+    "docs\\core\\media\\packages\\package-framework.png"
+  ],
+  "c3608fb67a72dd5d25db4d877a18ee7e9fa0e164": [
+    "docs\\core\\migrating-from-dnx.md"
+  ],
+  "8197e974b390704a241a2d3b1bad2e77cab8d988": [
+    "docs\\core\\packages.md"
+  ],
+  "7354c5a0bf5d4c5181a1eddfdfa1967cb98ff0d5": [
+    "docs\\core\\porting\\index.md"
+  ],
+  "52c79102bf03cb019e65c7e7b2987329ae3bc19a": [
+    "docs\\core\\porting\\libraries.md"
+  ],
+  "b8076d6effa23eac989ed463b108ab609d72ee81": [
+    "docs\\core\\porting\\media\\project-structure\\project.pcl.png"
+  ],
+  "53c2807b4930672a4dca14af87586093931c40a7": [
+    "docs\\core\\porting\\media\\project-structure\\project.png"
+  ],
+  "e8df3c3cca65bf169a014f30b97869a420065f61": [
+    "docs\\core\\porting\\media\\project-structure\\project.xproj.different.png"
+  ],
+  "9e5b560d111542f9e61b18cfd9143d0adb9325e5": [
+    "docs\\core\\porting\\media\\project-structure\\project.xproj.png"
+  ],
+  "1456e013dc350e517b209ec6586db5850c3f8c4b": [
+    "docs\\core\\porting\\nuget-packages.md"
+  ],
+  "55905df086d216583a50bfcc591013840d989397": [
+    "docs\\core\\porting\\project-structure.md"
+  ],
+  "cedbd336c06c9fb9cc63d9df4c7a39a0dff72166": [
+    "docs\\core\\porting\\third-party-deps.md"
+  ],
+  "169a858e389e200c9b1758d7b90a01a1929a1037": [
+    "docs\\core\\rid-catalog.md"
+  ],
+  "8b68bf6a6106e2338ba3867277915862d0075919": [
+    "docs\\core\\sdk.md"
+  ],
+  "94bae12916fd20f534916d97157605c6a9aa9202": [
+    "docs\\core\\testing\\index.md"
+  ],
+  "f2b45a76e55d082d39e1301809634903cca1a2f5": [
+    "docs\\core\\testing\\unit-testing-with-dotnet-test.md"
+  ],
+  "fe1af161a83106a3c4416cc53c8cfe7963ea8484": [
+    "docs\\core\\tools\\dotnet.md"
+  ],
+  "bf844a369ae5ca365b650e741687f5cfbeb746da": [
+    "docs\\core\\tools\\dotnet-build.md"
+  ],
+  "679d626c5e0a32eb2b0f3afb645f61a630455908": [
+    "docs\\core\\tools\\dotnet-install-script.md"
+  ],
+  "0d4bec7a6e9b38f69a3c10df17771fe4e625756d": [
+    "docs\\core\\tools\\dotnet-new.md"
+  ],
+  "0a652f0612c31ac5fae551dd7b0a18d1046c55fc": [
+    "docs\\core\\tools\\dotnet-pack.md"
+  ],
+  "23d46c1cec998e8e3049317fbb785c4dde8aed28": [
+    "docs\\core\\tools\\dotnet-publish.md"
+  ],
+  "0dae3a224217d5417cf08ac19a26abf90de9121d": [
+    "docs\\core\\tools\\dotnet-restore.md"
+  ],
+  "6d0ba525d729aa97007df8c0bee0b9949cd15418": [
+    "docs\\core\\tools\\dotnet-run.md"
+  ],
+  "3c51694bb9150ada7f86174049b2974cc49df294": [
+    "docs\\core\\tools\\dotnet-test.md"
+  ],
+  "41d168c28eb5ba9e5004317370bf219ea6b8b2e9": [
+    "docs\\core\\tools\\extensibility.md"
+  ],
+  "bc6cb807d7754753b67f89a6039358d0570f22e3": [
+    "docs\\core\\tools\\global-json.md"
+  ],
+  "0c7067d17a8ac7178680a62c2bb01a8babc6ea71": [
+    "docs\\core\\tools\\index.md"
+  ],
+  "ef6d86dc7da862a2a61112c666acbd4fa48b22c8": [
+    "docs\\core\\tools\\media\\test-protocol\\dotnet-test-discover.png"
+  ],
+  "63bf500252fc112edf2e2bf9293b7fdcf08cc834": [
+    "docs\\core\\tools\\media\\test-protocol\\dotnet-test-execute.png"
+  ],
+  "1eca599b0e83a580b618a46b06fe4ce4237a1331": [
+    "docs\\core\\tools\\project-json.md"
+  ],
+  "4717b1f608051dc748ba3f1ceb94d6ddd94250bb": [
+    "docs\\core\\tools\\telemetry.md"
+  ],
+  "2248c20af08584769894fb88b5d227a1a2bb9534": [
+    "docs\\core\\tools\\test-protocol.md"
+  ],
+  "fb015d54b41496168ebf158b7bf4f4d88641f4ff": [
+    "docs\\core\\tools\\using-ci-with-cli.md"
+  ],
+  "cfb3a2ee49046f8a24c28c2b3f81cdcbe9760861": [
+    "docs\\core\\tutorials\\aspnet-core.md"
+  ],
+  "0ede86d4e584ef644b2939d099037d15f0b84a58": [
+    "docs\\core\\tutorials\\cli-console-app-tutorial-advanced.md"
+  ],
+  "047f4f6c421d2464d4ccbc33391e2d8651e24626": [
+    "docs\\core\\tutorials\\index.md"
+  ],
+  "f3733b8c22b4c3603a08c7806dcfea92db58dd9c": [
+    "docs\\core\\tutorials\\libraries.md"
+  ],
+  "6e6eaaeac81dc356f5b2bcb23e87af38f5c78647": [
+    "docs\\core\\tutorials\\libraries-with-vs.md"
+  ],
+  "7525dff46a277aecb48e76819d3a4b39f82b62ec": [
+    "docs\\core\\tutorials\\managing-package-dependency-versions.md"
+  ],
+  "d990a7f1678d37de1e1278e6c7cbe72f68399ad9": [
+    "docs\\core\\tutorials\\media\\target-dotnetcore-with-msbuild\\new-project-dialog-class-library-portable.png"
+  ],
+  "ff917d73261fd1657b3952873f3911c8ec9927f4": [
+    "docs\\core\\tutorials\\media\\target-dotnetcore-with-msbuild\\pcl-targets-dialog-net46-aspnetcore10.png"
+  ],
+  "80b1c027b9056ff4cdefb6c8730dbea2c5234404": [
+    "docs\\core\\tutorials\\media\\using-on-macos\\vscodedebugger.png"
+  ],
+  "7ad36e97d1389e5dda7d7bff89a3e2b2ccdff9d1": [
+    "docs\\core\\tutorials\\target-dotnetcore-with-msbuild.md"
+  ],
+  "2eff4f30f5dfc4fc44e2a870de5546ca5483c337": [
+    "docs\\core\\tutorials\\using-on-macos.md"
+  ],
+  "12f247aacafdd083845d13b1833f23abe44fb338": [
+    "docs\\core\\tutorials\\using-on-windows.md"
+  ],
+  "c2edfc8b1ec81d3adc3ed547efbb122e86623941": [
+    "docs\\core\\tutorials\\using-with-xplat-cli.md"
+  ],
+  "9e7d087157a7d6662bfc190e6b192218fb692644": [
+    "docs\\core\\versions\\index.md"
+  ],
+  "4b30afb7c776d461eeef240cf313385f13c61102": [
+    "docs\\core\\versions\\servicing.md"
+  ],
+  "335d4d1c628de468ef619ea96613d93b771f9490": [
+    "docs\\core\\windows-prerequisites.md"
+  ],
+  "e475760894406b7abefd011a6f3aadb0cb817fa9": [
+    "docs\\csharp\\async.md"
+  ],
+  "9b07d130d79b83733090f1a84fb74c12e945f4b5": [
+    "docs\\csharp\\codedoc.md"
+  ],
+  "4cc2397c59901cfcaa62b3f9a740f6389dfee3e1": [
+    "docs\\csharp\\concepts.md"
+  ],
+  "08dbf432e6301d56eb0df4cd77d7af4ddc9e1ee9": [
+    "docs\\csharp\\csharp-6.md"
+  ],
+  "1a2a7108c9dded4aa43eeebe54e4503e53f4ded9": [
+    "docs\\csharp\\delegate-class.md"
+  ],
+  "a3eb55a7dfc9f81f114de136c635b8ea1c93e512": [
+    "docs\\csharp\\delegates-events.md"
+  ],
+  "bf4bfad76f6e6dc60ae4dd6867130d4eb7fbaea2": [
+    "docs\\csharp\\delegates-overview.md"
+  ],
+  "4e0dc42bbb36a024c55a3870019286467f94d256": [
+    "docs\\csharp\\delegates-patterns.md"
+  ],
+  "2a5559a379ec12e37a30fb1cef9eab0107e6bd02": [
+    "docs\\csharp\\delegates-strongly-typed.md"
+  ],
+  "10a555547b063aebe92dcb20a62b928aba7ee8c9": [
+    "docs\\csharp\\distinguish-delegates-events.md"
+  ],
+  "3d0512cc5e6150212ff468164c38928f9f5f3c2a": [
+    "docs\\csharp\\event-pattern.md"
+  ],
+  "0d31091b0bf4cab0f5be2f9ded4e9d49ebe620fe": [
+    "docs\\csharp\\events-overview.md"
+  ],
+  "4266b181ba8fc26ccb2ce7f9d470d1b17bceeb0c": [
+    "docs\\csharp\\expression-classes.md"
+  ],
+  "f98dd3506827405d243f8364233c1e2c351cbdd6": [
+    "docs\\csharp\\expression-trees.md"
+  ],
+  "652426127e693b117d749b4c5a126aecd230d43f": [
+    "docs\\csharp\\expression-trees-building.md"
+  ],
+  "34818cdc266ee3005c2e3cb0b54b153d815fd49b": [
+    "docs\\csharp\\expression-trees-execution.md"
+  ],
+  "b7d8d8ee21d10412859c31ca8a2d8567b93ec1fc": [
+    "docs\\csharp\\expression-trees-explained.md"
+  ],
+  "7a4ef292003eb26b193e7cfff2c44bffe9b2a903": [
+    "docs\\csharp\\expression-trees-interpreting.md"
+  ],
+  "e1a3766c9e4b3b749c26e065eb4c0c52b810d2b6": [
+    "docs\\csharp\\expression-trees-summary.md"
+  ],
+  "f7b627909c2c6ec4729b20e7f4f4b9de44530a5e": [
+    "docs\\csharp\\expression-trees-translating.md"
+  ],
+  "000bcd58d7a078b6bfc814876aa4a5e0aeddf6c4": [
+    "docs\\csharp\\features.md"
+  ],
+  "4d6e1768c551db5e0ba70796a69ae5abb5dd1011": [
+    "docs\\csharp\\generics.md"
+  ],
+  "c43c1bd2ed95da0c3f8fc6061968e97671da43ee": [
+    "docs\\csharp\\implicitly-typed-lambda-expressions.md"
+  ],
+  "4c1f13b60d94450271e497b387e6330c9c73ef5f": [
+    "docs\\csharp\\index.md"
+  ],
+  "3c4dfd9b42460c7a36fcfaff68e8ed8491e170d2": [
+    "docs\\csharp\\indexers.md"
+  ],
+  "b8681a38f1d976732ae71c5f308a5df746e257b8": [
+    "docs\\csharp\\interop.md"
+  ],
+  "e72c459d21b892ac1f69e2273bbeef6a2e95bf81": [
+    "docs\\csharp\\iterators.md"
+  ],
+  "155628290b3e22ffc1bff8c9f3feda77f27ef419": [
+    "docs\\csharp\\lambda-expressions.md"
+  ],
+  "2c25ace267151bd00217a59f206bf44b5db2e879": [
+    "docs\\csharp\\linq.md"
+  ],
+  "f186406674107b7116af59268f896047097e3202": [
+    "docs\\csharp\\modern-events.md"
+  ],
+  "ebc31140bafe7659d78c150ec3056c53a64c1907": [
+    "docs\\csharp\\parallel.md"
+  ],
+  "761f8f892f1da3c4c3b98aaca4e31c20f5a6f93d": [
+    "docs\\csharp\\properties.md"
+  ],
+  "8b789998d9fbe4bf7d0dbe8403193684aa6cbcf5": [
+    "docs\\csharp\\reflection.md"
+  ],
+  "3122823d8a48e7db50ef65146f49009c58d0a694": [
+    "docs\\csharp\\syntax.md"
+  ],
+  "d193192b05982ffcdf5d36e34d678ae5f6f8c16b": [
+    "docs\\csharp\\tutorials\\console-teleprompter.md"
+  ],
+  "77f56021935d4d5c8a60f73bd3a238c248a9d663": [
+    "docs\\csharp\\tutorials\\console-webapiclient.md"
+  ],
+  "0b9cbd6cb0bd5ea324a675d01bc46b6ea7b6ac85": [
+    "docs\\csharp\\tutorials\\index.md"
+  ],
+  "2523bec3c08ae3f2b2bc898d51fd01e1bbf6092b": [
+    "docs\\csharp\\tutorials\\microservices.md"
+  ],
+  "d68177d9c8b42943c679cd815c7dfd793ad99203": [
+    "docs\\csharp\\tutorials\\working-with-linq.md"
+  ],
+  "d36d4dfb253b5671b88fb51949609fb552e5ebc6": [
+    "docs\\csharp\\type-system.md"
+  ],
+  "e0f4e609a4899c3163e4c32773a9078001ce3b2b": [
+    "docs\\fsharp\\async.md"
+  ],
+  "1b21aede43d5c1e4ae160bd0e5e02bd89b863db9": [
+    "docs\\fsharp\\getting-started-netcore.md"
+  ],
+  "535d0837379057004e5b492fd95ea8545767421a": [
+    "docs\\fsharp\\index.md"
+  ],
+  "6ee6a35fa247dfe951f4df97818784b30600d543": [
+    "docs\\images\\corefx-platforms-loc.png"
+  ],
+  "5f9d434bf25706746d0108fd80f5ee1a9ae71655": [
+    "docs\\samples-and-tutorials\\index.md"
+  ],
+  "710bbf37042073a74059f85a888c49573fb6bef7": [
+    "docs\\standard\\assembly-format.md"
+  ],
+  "39dc9e8599daea86b48d864179c13c5ae965876b": [
+    "docs\\standard\\async.md"
+  ],
+  "1b9e5b6cac5cf8f3ba8d3c4abaea03df8a9d3dc5": [
+    "docs\\standard\\async-in-depth.md"
+  ],
+  "8ed35197078e43f096931adb18c454004f83cccf": [
+    "docs\\standard\\class-libraries.md"
+  ],
+  "17e18f19ecf32e41098fc35afed8ba0feb7280ee": [
+    "docs\\standard\\clr.md"
+  ],
+  "063e43b156771ba0db7c6b8ef5823330a4405c2c": [
+    "docs\\standard\\collections\\commonly-used-collection-types.md"
+  ],
+  "de1fe3bb9b9a75561b4f28ec4609491d6f3c39f5": [
+    "docs\\standard\\collections\\comparisons-and-sorts-within-collections.md"
+  ],
+  "721f16154e1df4b7a075639ccce6bf2650b46c9b": [
+    "docs\\standard\\collections\\hashtable-and-dictionary-collection-types.md"
+  ],
+  "3f2831f21654d9eb1523cd80166b674e7c41d8bb": [
+    "docs\\standard\\collections\\index.md"
+  ],
+  "f00fedb70bddc184e5c6ea71213b2beb78594792": [
+    "docs\\standard\\collections\\selecting-a-collection-class.md"
+  ],
+  "a5f6e2ef7f765dccf1fee0e2de60dea8aec003b9": [
+    "docs\\standard\\collections\\sorted-collection-types.md"
+  ],
+  "991b4b8389cc967881c2c39d29c387687047489f": [
+    "docs\\standard\\collections\\threadsafe\\blockingcollection-overview.md"
+  ],
+  "90ad4f1f0266d948937ed462be15a4d4948ce7f8": [
+    "docs\\standard\\collections\\threadsafe\\how-to-add-and-remove-items.md"
+  ],
+  "4f73f3bf2000a0ff4cd600d72bb161206a58d23a": [
+    "docs\\standard\\collections\\threadsafe\\how-to-add-and-take-items.md"
+  ],
+  "63a59dbcc323f392e3bf2991b1439aa062382623": [
+    "docs\\standard\\collections\\threadsafe\\how-to-add-bounding-and-blocking.md"
+  ],
+  "e0eb042b761020815f7f2bc2bdefabb45219c02e": [
+    "docs\\standard\\collections\\threadsafe\\how-to-create-an-object-pool.md"
+  ],
+  "e68ad58fecfe489cc26af02be7e4dbb4f7a8470c": [
+    "docs\\standard\\collections\\threadsafe\\how-to-use-arrays-of-blockingcollections.md"
+  ],
+  "618b5c7c1b8219f4e9225277064ff3c498ff3382": [
+    "docs\\standard\\collections\\threadsafe\\how-to-use-foreach-to-remove.md"
+  ],
+  "421d46585b5d83f5772fa6596ad581c8c6acbf71": [
+    "docs\\standard\\collections\\threadsafe\\index.md"
+  ],
+  "74f421a5badd9f2c7bf10fa1dfdf98161bba2ce8": [
+    "docs\\standard\\collections\\threadsafe\\when-to-use-a-thread-safe-collection.md"
+  ],
+  "0805bae19871f878806050a0c2bf954927894321": [
+    "docs\\standard\\collections\\when-to-use-generic-collections.md"
+  ],
+  "4ea3ae3471636c4833597520628e903999f35c0a": [
+    "docs\\standard\\common-type-system.md"
+  ],
+  "0d1dfc333f16acad44b1e276b75ff3c65a77e5aa": [
+    "docs\\standard\\delegates-lambdas.md"
+  ],
+  "de43ff34320a4bb6781a26eada96053d720345ab": [
+    "docs\\standard\\exceptions.md"
+  ],
+  "7283ed099cefa4b0e137869724f8e87dda0d451a": [
+    "docs\\standard\\framework-libraries.md"
+  ],
+  "57f6bdb833e35a1d566774ef10f84791b7e1447f": [
+    "docs\\standard\\frameworks.md"
+  ],
+  "4a75310e7db79714fb3239babb81e6d748ded5ae": [
+    "docs\\standard\\gc-overview.md"
+  ],
+  "763985d8edd6b41e0181e558117b5ba39b187989": [
+    "docs\\standard\\generics.md"
+  ],
+  "e4017613713533c42e49d96271104f761d537575": [
+    "docs\\standard\\index.md"
+  ],
+  "5afc6046a2e791fc8cceadc6299ab075512ccbb4": [
+    "docs\\standard\\library.md"
+  ],
+  "d60c445248c75364fdec9b25e0a5bce96c86bf26": [
+    "docs\\standard\\managed-code.md"
+  ],
+  "938b47878d90fc32819bbfbae2b5737eab1bf677": [
+    "docs\\standard\\media\\assembly-format\\assembly-headers.png"
+  ],
+  "878751ec4663e23a4ea7b70da29e750e222e19fa": [
+    "docs\\standard\\media\\portability-analyzer\\portability-report.png"
+  ],
+  "f8208a75ae262d5130b5031bc8562d5b396442ef": [
+    "docs\\standard\\media\\portability-analyzer\\portability-screenshot.png"
+  ],
+  "31af85325450edc2abc7ba8dadf618272e81efc4": [
+    "docs\\standard\\media\\portability-analyzer\\portability-solution-explorer.png"
+  ],
+  "e6b57c6b636d3d2d42299083d2b12eb049288e27": [
+    "docs\\standard\\media\\using-linq\\plinq-diagram.png"
+  ],
+  "0d7415b10d6f247c30b3da508eb8fc9e0007f824": [
+    "docs\\standard\\native-interop.md"
+  ],
+  "81a9a799f60cd05fcf99ed82c4305576817e2f8b": [
+    "docs\\standard\\numerics.md"
+  ],
+  "b35e6d67666ecd73ce58c0f44c0f3cf14c114602": [
+    "docs\\standard\\portability-analyzer.md"
+  ],
+  "e8ec4110d5fb64d351510eaaad2ee2ee93399cbf": [
+    "docs\\standard\\using-linq.md"
+  ],
+  "953d31431f92e8f9e656edf646e0bf85af7c91e9": [
+    "docs\\toc.md"
+  ],
+  "648c5977ae9f7ca438aa4ca22603de6d4f7c67a6": [
+    "docs\\welcome.md"
+  ],
+  "d2eebffe7dd33798b0776634639ba0022d07d6f7": [
+    "index.md"
+  ],
+  "1cc96bdb02a0ad8ba2b9f306bebfda59b097d8a0": [
+    "README.md"
+  ],
+  "87c0eefcef4849845a315722b304f56a373b8316": [
+    "samples\\core-projects\\console-apps\\Fibonacci\\README.md"
+  ],
+  "ed999ca9c2ae5412c2a07cf3b3bf292ff3283594": [
+    "samples\\core-projects\\console-apps\\FibonacciBetter\\README.md"
+  ],
+  "b389b51fd084364ae3872ade4deadc58cdb214f0": [
+    "samples\\core-projects\\console-apps\\Hello\\README.md"
+  ],
+  "fce7e343a32f38f1acd5a4d2900295b94b77e67e": [
+    "samples\\core-projects\\console-apps\\HelloNative\\README.md"
+  ],
+  "fa4e69a9a8b16f77b7b627805974f8ccfe19358d": [
+    "samples\\core-projects\\console-apps\\NewTypes\\README.md"
+  ],
+  "5578ee520f7cabd84b675e7758da2384d81a02da": [
+    "samples\\core-projects\\libraries\\README.md"
+  ],
+  "15cb2e40d929b9382b39070cc2703931edb6bd2b": [
+    "samples\\csharp-language\\console-linq\\README.md"
+  ],
+  "50a3da2aaca2518d0fae77cccf72f2a9d7306296": [
+    "samples\\csharp-language\\console-teleprompter\\README.md"
+  ],
+  "7d4ed1cf409417a0465be62050b3cece6153a5c5": [
+    "samples\\csharp-language\\console-webapiclient\\README.md"
+  ],
+  "5272218863f2e5c271bfa88f6e51f488c12b5c25": [
+    "samples\\csharp-language\\delegates-and-events\\README.md"
+  ],
+  "324ccbdebb7cea94e731405994a60676d1b12c84": [
+    "samples\\csharp-language\\events\\README.md"
+  ],
+  "6193d8c5bda6c8defa45d5dfa77cd7f8932da54f": [
+    "samples\\csharp-language\\expression-trees\\README.md"
+  ],
+  "7bc5fe90b524ad430934c8fb73d1830ce9894388": [
+    "samples\\csharp-language\\indexers\\README.md"
+  ],
+  "672858f99927f8d8ad17a21571e9b0ee57cc4a69": [
+    "samples\\csharp-language\\iterators\\README.md"
+  ],
+  "77c3af1ca9d71810364c405735088d6b393f6407": [
+    "samples\\csharp-language\\WeatherMicroservice\\README.md"
+  ],
+  "c1d40fca97b319de572e229c2990bf5abd4e958d": [
+    "samples\\csharp-language\\WeatherMicroservice\\wwwroot\\README.md"
+  ],
+  "059057e690fed8981136d104e75b95e5508bf3ac": [
+    "samples\\getting-started\\golden\\README.md"
+  ],
+  "fd411e3de0e5b40c069a887a0258be54a31e84a3": [
+    "samples\\linq\\csharp\\README.md"
+  ],
+  "6c454f8cbaa23d85a6caed34ceb85e865e97ac36": [
+    "samples\\README.md"
+  ],
+  "6f8b239c9d9d92e8d12907f7542c3153c6574119": [
+    "samples\\unit-testing\\using-dotnet-test\\README.md"
+  ],
+  "4bc22621b28b20047a34acf0c1aa44bf8d136a51": [
+    "styleguide\\template.md"
+  ],
+  "38e0278be784c964a0333e7c435c97c4348a1774": [
+    "styleguide\\voice-tone.md"
+  ],
+  "46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1": [
+    "TOC.md"
+  ]
+}
